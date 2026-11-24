@@ -1,28 +1,221 @@
-# 💫 About Me:
-## 👋 Hi, I'm a Developer!<br><br>I'm passionate about programming, technology, and building creative digital solutions. I enjoy learning new technologies, improving my coding skills, and working on interesting projects.<br><br>- 💻 Passionate about software development<br>- 🌱 Always learning and improving my skills<br>- 🚀 Interested in building innovative projects<br>- 🤝 Open to collaboration and new opportunities<br>- 🎯 My goal is to become a professional software engineer<br><br>**Keep learning, keep coding, keep growing!**
+<!-- ================= HEADER ================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rasulbek.web) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0891b2,100:00f5ff&text=RASULBEK%20AMINBOYEV&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=58"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rasulbek917&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rasulbek917&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rasulbek917&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+Digital+Universe;Passionate+Software+Developer;Turning+Coffee+Into+Code;Dream+Big.+Code+Hard.;Never+Stop+Learning."/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rasulbek917&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=Rasulbek917&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Rasulbek917?style=for-the-badge&color=0891b2&labelColor=0d1117&logo=github"/>
+<img src="https://img.shields.io/github/stars/Rasulbek917?style=for-the-badge&color=0891b2&labelColor=0d1117&logo=github"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rasulbek917&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Rasulbek Aminboyev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Rasulbek Aminboyev) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/RASULBEK(917)!) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Rasulbek.web) 
+<!-- ================= ABOUT ME ================= -->
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌌 About Me
+
+<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+Hey there! 👋 I'm **Rasulbek Aminboyev**, a passionate developer who enjoys exploring the world of technology and creating meaningful digital experiences.
+
+I believe that programming is not just about writing code — it's about solving problems, expressing creativity, and turning ideas into reality.
+
+- 🚀 Exploring the world of software development
+- 💻 Building creative and useful projects
+- 🌱 Continuously learning new technologies
+- 🧠 Improving my problem-solving skills
+- 🤝 Open to collaboration and new opportunities
+- 🎯 My goal is to become a professional software engineer
+- ⚡ Passionate about innovation and technology
+
+<br clear="both"/>
+
+---
+
+<!-- ================= TERMINAL ================= -->
+
+## 👨‍💻 Developer Profile
+
+```javascript
+const rasulbek = {
+    name: "Rasulbek Aminboyev",
+    username: "Rasulbek917",
+    role: "Aspiring Software Engineer",
+    location: "Uzbekistan 🇺🇿",
+    interests: [
+        "Software Development",
+        "Web Development",
+        "Artificial Intelligence",
+        "Technology",
+        "Open Source"
+    ],
+    currentlyLearning: "New Technologies",
+    mindset: "Never Stop Learning",
+    status: "Building the Future 🚀"
+};
+```
+
+---
+
+<!-- ================= TECHNOLOGIES ================= -->
+
+## 🛠️ Languages & Technologies
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java&theme=dark"/>
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark"/>
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mysql,postgres,mongodb&theme=dark"/>
+
+### 🔧 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma&theme=dark"/>
+
+</div>
+
+---
+
+<!-- ================= STATISTICS ================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rasulbek917&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Rasulbek917&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasulbek917&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff"/>
+
+</div>
+
+---
+
+<!-- ================= TROPHIES ================= -->
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Rasulbek917&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+
+</div>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rasulbek917&bg_color=0d1117&color=00f5ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=My%20Coding%20Journey"/>
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION CARDS ================= -->
+
+## 🚀 Developer Insights
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasulbek917&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rasulbek917&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rasulbek917&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rasulbek917&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rasulbek917&theme=tokyonight&utcOffset=5"/>
+
+</div>
+
+---
+
+<!-- ================= GOALS ================= -->
+
+## 🎯 My Goals
+
+- [ ] Become a professional software engineer
+- [ ] Master modern programming technologies
+- [ ] Build impactful real-world applications
+- [ ] Contribute to open-source projects
+- [ ] Learn something new every day
+- [ ] Turn innovative ideas into reality
+
+---
+
+<!-- ================= SOCIALS ================= -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Rasulbek917">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+</a>
+
+<a href="https://instagram.com/INSTAGRAM_USERNAME">
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00F5FF"/>
+</a>
+
+<a href="https://t.me/TELEGRAM_USERNAME">
+<img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=00F5FF"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+</a>
+
+</div>
+
+---
+
+<!-- ================= QUOTE ================= -->
+
+## 💭 Developer Philosophy
+
+<div align="center">
+
+### "Great things start with a single line of code."
+
+**Think. Create. Code. Repeat.**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing!;Keep+Coding.+Keep+Growing."/>
+
+### ⭐ Thanks for visiting my profile!
+
+**Made with 💙 and countless lines of code.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0891b2,100:00f5ff&height=150&section=footer"/>
+
+</div>
